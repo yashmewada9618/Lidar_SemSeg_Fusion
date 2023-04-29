@@ -8,4 +8,4 @@ bash ./run.sh
 
 
 
-![output](https://github.com/thakkar-nit/Lidar_SemSeg_Fusion/blob/master/7jwxkl.gif )
+![output](https://github.com/thakkar-nit/Lidar_SemSeg_Fusion/blob/master/final_output.gif )
